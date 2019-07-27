@@ -1,0 +1,11 @@
+htlm{
+	height: 80%;
+}
+
+body{
+	background-color: #fff5eb;
+	min-height: 80%
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    position: relative;
+}
